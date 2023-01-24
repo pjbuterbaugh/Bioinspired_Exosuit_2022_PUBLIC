@@ -1,0 +1,3 @@
+[submodule "Libraries\\Arduino-MemoryFree\\"]
+	path = Libraries\\Arduino-MemoryFree\\
+	url = ./Libraries\\Arduino-MemoryFree\\
